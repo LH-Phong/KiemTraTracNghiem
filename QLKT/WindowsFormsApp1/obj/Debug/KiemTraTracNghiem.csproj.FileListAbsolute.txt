@@ -1,0 +1,10 @@
+D:\HocTap\DotNet\CacBuoi_ThucHanh\DoAn\QLKT\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\HocTap\DotNet\CacBuoi_ThucHanh\DoAn\QLKT\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\HocTap\DotNet\CacBuoi_ThucHanh\DoAn\QLKT\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\HocTap\DotNet\CacBuoi_ThucHanh\DoAn\QLKT\WindowsFormsApp1\obj\Debug\KiemTraTracNghiem.csproj.AssemblyReference.cache
+D:\HocTap\DotNet\CacBuoi_ThucHanh\DoAn\QLKT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DangNhap.resources
+D:\HocTap\DotNet\CacBuoi_ThucHanh\DoAn\QLKT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\HocTap\DotNet\CacBuoi_ThucHanh\DoAn\QLKT\WindowsFormsApp1\obj\Debug\KiemTraTracNghiem.csproj.GenerateResource.cache
+D:\HocTap\DotNet\CacBuoi_ThucHanh\DoAn\QLKT\WindowsFormsApp1\obj\Debug\KiemTraTracNghiem.csproj.CoreCompileInputs.cache
+D:\HocTap\DotNet\CacBuoi_ThucHanh\DoAn\QLKT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\HocTap\DotNet\CacBuoi_ThucHanh\DoAn\QLKT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
